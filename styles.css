@@ -70,3 +70,12 @@ img {
   border-radius: 5px;
   cursor: pointer;
 }
+
+@media only screen and (max-device-width: 360px) /* styles for mobile browsers smaller than 480px; (iphone) */ {
+  .container {
+    width: 350px;
+  }
+  #password {
+    width: 150px;
+  }
+}
