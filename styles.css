@@ -76,6 +76,9 @@ img {
     width: 350px;
   }
   #password {
-    width: 150px;
+    width: 170px;
+  }
+  .display {
+    width: 290px;
   }
 }
